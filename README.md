@@ -14,9 +14,9 @@
 
 ## Design
 
-- Web Design Reference
-[Soft UI Dashboard](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard)
+- Web Design Reference<br>
+  [Soft UI Dashboard](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard)
 
-- Logo
-![](https://jinan159.github.io/infi-buy-web-prototype/Infi-Buy-logos/Infi-Buy.svg)
-https://express.adobe.com/post/FiA1FJo8QCJM5/
+- Logo<br>
+  https://express.adobe.com/post/FiA1FJo8QCJM5/)<br>
+  ![](https://jinan159.github.io/infi-buy-web-prototype/Infi-Buy-logos/Infi-Buy.svg)
