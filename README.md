@@ -18,5 +18,15 @@
   [Soft UI Dashboard](https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard)
 
 - Logo<br>
+  - **RED** : RGB(202,8,11)<br>
+    `주가 상승`을 의미<br>
+  - **BLUE** : RGB(55,84,236)<br>
+    `주가 하락`을 의미<br>
+
+> `주가 하락`상태에서 `주가 상승(우상향)`을 통해 성공적인 제태크를 기원하는 의미를 담았습니다.
+
   https://express.adobe.com/post/FiA1FJo8QCJM5/)<br>
-  ![](https://jinan159.github.io/infi-buy-web-prototype/Infi-Buy-logos/Infi-Buy.svg)
+  ![](https://jinan159.github.io/infi-buy-web-prototype/Infi-Buy-logos/Infi-Buy.svg)<br>
+  <br>
+  
+  
